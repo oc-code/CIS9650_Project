@@ -1,5 +1,4 @@
-# CIS9650_Project
-Equities (and other assets) vs the S&amp;P 500
+# Team Project: Equities (and other assets) vs the S&amp;P 500
 
 Group members: Jipeng Chen, Olivia Chen, Afaqul Haque, Diane Martin, Nikki Reyes
 
